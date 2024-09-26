@@ -15,6 +15,7 @@
 <a href="https://fb.com/lakshanm1946130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lakshanm1946130" height="30" width="40" /></a>
 </p>
 
+<h1>Tech Stack</h1>
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
