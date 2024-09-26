@@ -126,6 +126,9 @@
   </a>
 </div>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan1946&" alt="lakshan1946" />&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=lakshan1946&show_icons=true&locale=en" alt="lakshan1946" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshan1946&" alt="lakshan1946" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshan1946&show_icons=true&locale=en" alt="lakshan1946" style="display: inline-block;" />
+</p>
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshan1946&show_icons=true&locale=en&layout=compact" alt="lakshan1946" /></p>
