@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshan Madhusanka</h1>
 <h3 align="center">A passionate frontend, backend, and mobile app developer, as well as a machine learning enthusiast from Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshan1946&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan1946" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshan1946&label=Profile%20views&color=0e75b6&style=flat" alt="lakshan1946" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
