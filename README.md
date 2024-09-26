@@ -102,6 +102,14 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://upload.vectorlogo.zone/logos/android_studio/images/2d2f184b-0446-4c5e-a260-5e5d59b3e516.svg" alt="android studio" width="40" height="40"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/fbdf367d-3f0d-4dfb-9df0-8ce3e9363a47.svg" alt="vs code" width="40" height="40"/>
+</a>
+
 </div>
 
 <h3 align="center">Version Control:</h3>
